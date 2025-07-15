@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **On a journey through Frontend & Backend development, diving deep into Large Language Models (LLMs), and crafting powerful APIs with FastAPI.**
 
-- 👨‍💻 All of my projects are available at [github.com/MuhammadArshadKhokhar](github.com/MuhammadArshadKhokhar)
+- 👨‍💻 All of my projects are available at [github.com/MuhammadArshadKhokhar](https://github.com/MuhammadArshadKhokhar)
 
 - 💬 Ask me about **Python, SQL, Excel, HTML/CSS, Power BI, Hugging Face Transformers**
 
